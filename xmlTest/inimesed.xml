@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<inimesed>
+    <inimene>
+        <eesnimi>Juhan</eesnimi>
+        <perenimi>Juurikas</perenimi>
+        <synd>1963</synd>
+		<sugu>Mees</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Juhan</eesnimi>
+        <perenimi>Kaalikas</perenimi>
+        <synd>1967</synd>
+        <sugu>Säga</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Kalle</eesnimi>
+        <perenimi>Kaalikas</perenimi>
+		<synd>1967</synd>
+		<sugu>Mees</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Mari</eesnimi>
+        <perenimi>Maasikas</perenimi>
+        <synd>1981</synd>
+        <sugu>Naine</sugu>
+    </inimene>
+    <inimene>
+        <eesnimi>Silver</eesnimi>
+        <perenimi>Käppa</perenimi>
+        <synd>1981</synd>
+        <sugu>Arst</sugu>
+    </inimene>
+</inimesed>
