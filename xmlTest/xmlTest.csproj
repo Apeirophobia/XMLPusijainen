@@ -102,9 +102,13 @@
     <Content Include="About.aspx" />
     <Content Include="autod.xml" />
     <Content Include="autod.xslt" />
+<<<<<<< HEAD
     <Content Include="autod_loendamine.xslt">
       <SubType>Designer</SubType>
     </Content>
+=======
+    <Content Include="autod_loendamine.xslt" />
+>>>>>>> b3b0c820401e4efc2d7030cebb5998584779e29e
     <Content Include="condition.xslt">
       <SubType>Designer</SubType>
     </Content>
@@ -133,8 +137,11 @@
     <Content Include="inimesed1.xslt">
       <SubType>Designer</SubType>
     </Content>
+<<<<<<< HEAD
     <Content Include="elizabeth.js" />
     <Content Include="kaks_last.xslt" />
+=======
+>>>>>>> b3b0c820401e4efc2d7030cebb5998584779e29e
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.esm.js" />
@@ -191,9 +198,12 @@
     <Content Include="Scripts\WebForms\WebParts.js" />
     <Content Include="Scripts\WebForms\WebUIValidation.js" />
     <Content Include="Site.Master" />
+<<<<<<< HEAD
     <Content Include="sugupuu.xml" />
     <Content Include="sugupuutabel.xslt" />
     <Content Include="synniaastad.xslt" />
+=======
+>>>>>>> b3b0c820401e4efc2d7030cebb5998584779e29e
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
